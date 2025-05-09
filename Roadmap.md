@@ -1,8 +1,3 @@
-# **Business Plan Team Chelsea**
-# **Product:** AI-Powered Group Dynamics & Performance Analysis Tool
-
-## **Date:** March 27, 2025
-
 ## Sprint 1: Upload & Transcription Pipeline
 
 ### Frontend Tasks
