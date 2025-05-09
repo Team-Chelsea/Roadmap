@@ -1,3 +1,12 @@
+
+
+
+
+
+
+<img src="https://sdmntprwestus.oaiusercontent.com/files/00000000-2d58-6230-b835-9d3859572105/raw?se=2025-05-09T22%3A43%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=7399a3a4-0259-4d43-bcd6-a56ceeb4c28b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T20%3A25%3A34Z&ske=2025-05-10T20%3A25%3A34Z&sks=b&skv=2024-08-04&sig=KWybgtsFO20EfG3Dqu1x/5jKo07Hwcqe97rcBI6tt3Y%3D" alt="chelsea logo" width="200"/>
+
+
 ## Sprint 1: Upload & Transcription Pipeline
 
 ### Frontend Tasks
